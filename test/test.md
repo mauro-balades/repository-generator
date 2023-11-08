@@ -5,32 +5,28 @@ This are a list of repositories for [{{NAME}}](https://github.com/{{NAME}})
 # Languages
 
 * [YAML](#YAML)
-* [Nim](#Nim)
-* [C](#C)
-* [Python](#Python)
 * [unknown](#unknown)
-* [JavaScript](#JavaScript)
-* [RobotFramework](#RobotFramework)
-* [C++](#C++)
-* [Shell](#Shell)
-* [Fortran](#Fortran)
-* [Assembly](#Assembly)
-* [Java](#Java)
 * [TypeScript](#TypeScript)
-* [Markdown](#Markdown)
-* [PHP](#PHP)
+* [Shell](#Shell)
+* [Brainfuck](#Brainfuck)
+* [Rust](#Rust)
+* [Python](#Python)
+* [Nim](#Nim)
+* [JavaScript](#JavaScript)
+* [C++](#C++)
+* [CSS](#CSS)
 
 
 
 ## YAML
-[maubg-debug/.github](https://github.com/maubg-debug/.github)
+[mauro-balades/.github](https://github.com/mauro-balades/.github)
 
-The default files for my repos
+🌐 The default files for my repos
 
-clone: `$ git clone https://github.com/maubg-debug/.github.git`
+clone: `$ git clone https://github.com/mauro-balades/.github.git`
 
 
-[license: GNU General Public License v3.0]
+[license: Other]
 
 
 
@@ -62,71 +58,293 @@ clone: `$ git clone https://github.com/maubg-debug/.github.git`
 
 
 
-## Nim
+## unknown
 
-[maubg-debug/build-sys](https://github.com/maubg-debug/build-sys)
+[mauro-balades/afetch](https://github.com/mauro-balades/afetch)
 
-A recreation from Makefile made in nim!
+A command-line system information tool written in x86 assembly language
 
-clone: `$ git clone https://github.com/maubg-debug/build-sys.git`
+clone: `$ git clone https://github.com/mauro-balades/afetch.git`
 
 
-\[[homepage](https://maubg-debug.github.io/build-sys/)\] [license: Other]
 
 
 
+[mauro-balades/awesome-fetch](https://github.com/mauro-balades/awesome-fetch)
 
+Command-line fetch tools for system information
 
+clone: `$ git clone https://github.com/mauro-balades/awesome-fetch.git`
 
 
+[license: Creative Commons Zero v1.0 Universal]
 
 
 
+[mauro-balades/bolt](https://github.com/mauro-balades/bolt)
 
+Bolt is a language with in-built data-race freedom!
 
+clone: `$ git clone https://github.com/mauro-balades/bolt.git`
 
 
+[license: MIT License]
 
 
 
 
+[mauro-balades/brightnessctl](https://github.com/mauro-balades/brightnessctl)
 
+A program to read and control device brightness
 
+clone: `$ git clone https://github.com/mauro-balades/brightnessctl.git`
 
 
+[license: Other]
 
+[mauro-balades/browsh](https://github.com/mauro-balades/browsh)
 
+A fully-modern text-based browser, rendering to TTY and browsers
 
+clone: `$ git clone https://github.com/mauro-balades/browsh.git`
 
 
+\[[homepage](https://www.brow.sh)\] [license: GNU Lesser General Public License v2.1]
 
-[maubg-debug/packages](https://github.com/maubg-debug/packages)
 
-List of packages for Nimble
 
-clone: `$ git clone https://github.com/maubg-debug/packages.git`
 
 
 
 
 
-## C
 
 
-[maubg-debug/calculator](https://github.com/maubg-debug/calculator)
 
-A simple calculator made in C (originated from my organization os-lite)
 
-clone: `$ git clone https://github.com/maubg-debug/calculator.git`
 
+[mauro-balades/docs](https://github.com/mauro-balades/docs)
 
-[license: GNU General Public License v3.0]
+The open-source repo for docs.github.com
 
+clone: `$ git clone https://github.com/mauro-balades/docs.git`
 
 
+\[[homepage](https://docs.github.com)\] [license: Creative Commons Attribution 4.0 International]
 
+[mauro-balades/Doom4Doom](https://github.com/mauro-balades/Doom4Doom)
 
+A mod for GZDoom, backporting Doom 2016's weapons, monsters and features to Doom 2.
 
+clone: `$ git clone https://github.com/mauro-balades/Doom4Doom.git`
+
+
+[license: MIT License]
+
+[mauro-balades/dotdrop](https://github.com/mauro-balades/dotdrop)
+
+Save your dotfiles once, deploy them everywhere
+
+clone: `$ git clone https://github.com/mauro-balades/dotdrop.git`
+
+
+\[[homepage](https://deadc0de.re/dotdrop/)\] [license: GNU General Public License v3.0]
+
+
+[mauro-balades/easy-popup](https://github.com/mauro-balades/easy-popup)
+
+Super light-weight JavaScript library to create a simple popup with mobile layout.
+
+clone: `$ git clone https://github.com/mauro-balades/easy-popup.git`
+
+
+\[[homepage](https://viivue.github.io/easy-popup)\] 
+
+
+
+## TypeScript
+
+
+[mauro-balades/aurora.css](https://github.com/mauro-balades/aurora.css)
+
+A css preprocessor that allows you to write less and style more with an overall clear and beginner-friendly syntax
+
+clone: `$ git clone https://github.com/mauro-balades/aurora.css.git`
+
+
+[license: MIT License]
+
+
+
+[mauro-balades/blocks-test](https://github.com/mauro-balades/blocks-test)
+
+clone: `$ git clone https://github.com/mauro-balades/blocks-test.git`
+
+
+[license: MIT License]
+
+
+
+
+
+
+
+
+
+
+[mauro-balades/cdn-create](https://github.com/mauro-balades/cdn-create)
+
+Create script/link tags to fetch your CDN resources and add them to your site at any time.
+
+clone: `$ git clone https://github.com/mauro-balades/cdn-create.git`
+
+
+\[[homepage](https://www.npmjs.com/package/cdn-create)\] [license: MIT License]
+
+
+
+
+[mauro-balades/color-tornado](https://github.com/mauro-balades/color-tornado)
+
+Choose randomly generated colors with a user-friendly and interactive interface.
+
+clone: `$ git clone https://github.com/mauro-balades/color-tornado.git`
+
+
+\[[homepage](color-tornado.vercel.app)\] 
+
+[mauro-balades/compiler-explorer](https://github.com/mauro-balades/compiler-explorer)
+
+Run compilers interactively from your web browser and interact with the assembly
+
+clone: `$ git clone https://github.com/mauro-balades/compiler-explorer.git`
+
+
+\[[homepage](https://godbolt.org/)\] [license: BSD 2-Clause "Simplified" License]
+
+
+[mauro-balades/cursora](https://github.com/mauro-balades/cursora)
+
+Create buautiful cursors for your website
+
+clone: `$ git clone https://github.com/mauro-balades/cursora.git`
+
+
+\[[homepage](https://cursora-mauro-balades.vercel.app/)\] 
+
+[mauro-balades/debug-print](https://github.com/mauro-balades/debug-print)
+
+Write meaningful messages for debugging, supported in multiple languages 
+
+clone: `$ git clone https://github.com/mauro-balades/debug-print.git`
+
+
+[license: MIT License]
+
+
+
+
+
+
+
+
+## Shell
+
+
+
+
+[mauro-balades/bash-plusplus](https://github.com/mauro-balades/bash-plusplus)
+
+Bring bash to the next level
+
+clone: `$ git clone https://github.com/mauro-balades/bash-plusplus.git`
+
+
+\[[homepage](https://mauro-balades.github.io/bash-plusplus/)\] [license: GNU General Public License v3.0]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Brainfuck
+
+
+
+
+
+
+
+[mauro-balades/brainfuck-plusplus](https://github.com/mauro-balades/brainfuck-plusplus)
+
+A brainfuck interpreter and compiler with some extra functionality.
+
+clone: `$ git clone https://github.com/mauro-balades/brainfuck-plusplus.git`
+
+
+\[[homepage](https://crates.io/crates/brainfuck-plusplus)\] [license: Other]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Rust
+
+
+
+
+
+
+
+
+[mauro-balades/breeze](https://github.com/mauro-balades/breeze)
+
+Breeze is a light-weight, highly-customizable build tool for different languages such as C(++) and Java 
+
+clone: `$ git clone https://github.com/mauro-balades/breeze.git`
+
+
+[license: MIT License]
 
 
 
@@ -154,172 +372,100 @@ clone: `$ git clone https://github.com/maubg-debug/calculator.git`
 
 
 
-[maubg-debug/chrome-psw](https://github.com/maubg-debug/chrome-psw)
 
-Get password from google chrome.
 
-clone: `$ git clone https://github.com/maubg-debug/chrome-psw.git`
 
 
-[license: Other]
 
 
+[mauro-balades/breeze-rect](https://github.com/mauro-balades/breeze-rect)
 
+A breeze plugin for the Rect programming language
 
+clone: `$ git clone https://github.com/mauro-balades/breeze-rect.git`
 
-[maubg-debug/env](https://github.com/maubg-debug/env)
 
-Un compilador para las variables del entorno
+\[[homepage](https://pypi.org/project/breeze-rect/)\] [license: MIT License]
 
-clone: `$ git clone https://github.com/maubg-debug/env.git`
 
 
-\[[homepage](https://maubg-debug.github.io/env/)\] [license: GNU General Public License v3.0]
 
 
 
 
+[mauro-balades/ChromeVaultExtract](https://github.com/mauro-balades/ChromeVaultExtract)
 
+a powerful software tool designed to effortlessly retrieve and extract saved passwords from the Google Chrome web browser.
 
-
-
-
-[maubg-debug/horizon](https://github.com/maubg-debug/horizon)
-
-Un web framework para python
-
-clone: `$ git clone https://github.com/maubg-debug/horizon.git`
-
-
-[license: GNU General Public License v3.0]
-
-
-[maubg-debug/interprete-de-mates](https://github.com/maubg-debug/interprete-de-mates)
-
-Un  robot que te resuelve 1 + 2
-
-clone: `$ git clone https://github.com/maubg-debug/interprete-de-mates.git`
-
-
-\[[homepage](https://maubg-debug.github.io/interprete-de-mates/)\] [license: GNU General Public License v3.0]
-
-
-
-
-[maubg-debug/lenguage](https://github.com/maubg-debug/lenguage)
-
-Un lenguaje de programacion para aprender
-
-clone: `$ git clone https://github.com/maubg-debug/lenguage.git`
-
-
-\[[homepage](https://maubg-debug.github.io/lenguage/)\] [license: MIT License]
-
-
-
-
-
-[maubg-debug/meeSeeks-Kirkland](https://github.com/maubg-debug/meeSeeks-Kirkland)
-
-Mee6 (Kirkland) | El mejor bot de la historia
-
-clone: `$ git clone https://github.com/maubg-debug/meeSeeks-Kirkland.git`
-
-
-\[[homepage](https://kirkland.maucode.com)\] [license: GNU General Public License v3.0]
-
-
-
-## unknown
-
-
-
-
-[maubg-debug/chromium](https://github.com/maubg-debug/chromium)
-
-The official GitHub mirror of the Chromium source
-
-clone: `$ git clone https://github.com/maubg-debug/chromium.git`
-
-
-\[[homepage](https://chromium.googlesource.com/chromium/src/)\] [license: BSD 3-Clause "New" or "Revised" License]
-
-
-
-[maubg-debug/deskreen](https://github.com/maubg-debug/deskreen)
-
-Deskreen turns any device with a web browser into a secondary screen for your computer
-
-clone: `$ git clone https://github.com/maubg-debug/deskreen.git`
-
-
-\[[homepage](https://deskreen.com)\] [license: GNU Affero General Public License v3.0]
-
-
-
-
-
-[maubg-debug/free-programming-books](https://github.com/maubg-debug/free-programming-books)
-
-:books: Freely available programming books
-
-clone: `$ git clone https://github.com/maubg-debug/free-programming-books.git`
-
-
-\[[homepage](https://ebookfoundation.github.io/free-programming-books/)\] [license: Other]
-
-
-[maubg-debug/github-issue-templates](https://github.com/maubg-debug/github-issue-templates)
-
-:symbols: A collection of GitHub issue and pull request templates
-
-clone: `$ git clone https://github.com/maubg-debug/github-issue-templates.git`
-
-
-
-
-[maubg-debug/github-readme-stats](https://github.com/maubg-debug/github-readme-stats)
-
-:zap: Dynamically generated stats for your github readmes
-
-clone: `$ git clone https://github.com/maubg-debug/github-readme-stats.git`
-
-
-\[[homepage](https://github-readme-stats.vercel.app)\] [license: MIT License]
-
-
-
-
-
-[maubg-debug/jasync-sql](https://github.com/maubg-debug/jasync-sql)
-
-Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
-
-clone: `$ git clone https://github.com/maubg-debug/jasync-sql.git`
-
-
-[license: Apache License 2.0]
-
-
-[maubg-debug/laravel](https://github.com/maubg-debug/laravel)
-
-A PHP framework for web artisans
-
-clone: `$ git clone https://github.com/maubg-debug/laravel.git`
-
-
-\[[homepage](https://laravel.com)\] 
-
-
-
-[maubg-debug/lyricist](https://github.com/maubg-debug/lyricist)
-
-🌎 The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
-
-clone: `$ git clone https://github.com/maubg-debug/lyricist.git`
+clone: `$ git clone https://github.com/mauro-balades/ChromeVaultExtract.git`
 
 
 [license: MIT License]
+
+[mauro-balades/CloneFish](https://github.com/mauro-balades/CloneFish)
+
+Clone any website and convert it into a phishing website (Look at note in the readme)
+
+clone: `$ git clone https://github.com/mauro-balades/CloneFish.git`
+
+
+[license: MIT License]
+
+
+
+
+
+
+
+
+
+
+
+
+[mauro-balades/expross](https://github.com/mauro-balades/expross)
+
+Expross is a lightweight webserver to introduce JavaScript developers familiar with Express to Python.
+
+clone: `$ git clone https://github.com/mauro-balades/expross.git`
+
+
+\[[homepage](https://mauro-balades.gitbook.io/docs/)\] [license: MIT License]
+
+
+## Nim
+
+
+
+
+
+
+
+
+
+
+
+
+[mauro-balades/build-sys](https://github.com/mauro-balades/build-sys)
+
+A recreation from Makefile made in nim!
+
+clone: `$ git clone https://github.com/mauro-balades/build-sys.git`
+
+
+\[[homepage](https://mauro-balades.github.io/build-sys/)\] [license: Other]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -332,14 +478,6 @@ clone: `$ git clone https://github.com/maubg-debug/lyricist.git`
 
 
 
-[maubg-debug/cubos](https://github.com/maubg-debug/cubos)
-
-Una animacion de cubos creado en js
-
-clone: `$ git clone https://github.com/maubg-debug/cubos.git`
-
-
-[license: GNU General Public License v3.0]
 
 
 
@@ -348,59 +486,27 @@ clone: `$ git clone https://github.com/maubg-debug/cubos.git`
 
 
 
-[maubg-debug/generator-licenser](https://github.com/maubg-debug/generator-licenser)
+[mauro-balades/card-me](https://github.com/mauro-balades/card-me)
 
-liceser - create licenses for your projects with high-level UI
+Create personal cards for your profile
 
-clone: `$ git clone https://github.com/maubg-debug/generator-licenser.git`
-
-
-\[[homepage](https://www.npmjs.com/package/generator-licenser)\] [license: Other]
+clone: `$ git clone https://github.com/mauro-balades/card-me.git`
 
 
+\[[homepage](https://www.npmjs.com/package/card-me)\] [license: MIT License]
 
 
 
 
 
+[mauro-balades/CodeQuest](https://github.com/mauro-balades/CodeQuest)
+
+🕵️‍♂️ CodeQuest - Guess the Programming Language CLI Game
+
+clone: `$ git clone https://github.com/mauro-balades/CodeQuest.git`
 
 
-
-
-
-
-
-
-
-
-
-## RobotFramework
-
-
-
-
-
-
-[maubg-debug/descargar](https://github.com/maubg-debug/descargar)
-
-Un instalador para descargar repositorios en .zip
-
-clone: `$ git clone https://github.com/maubg-debug/descargar.git`
-
-
-\[[homepage](https://maubg-debug.github.io/descargar/)\] [license: GNU General Public License v3.0]
-
-
-
-
-
-
-
-
-
-
-
-
+[license: MIT License]
 
 
 
@@ -424,34 +530,34 @@ clone: `$ git clone https://github.com/maubg-debug/descargar.git`
 
 
 
-[maubg-debug/estudiantes](https://github.com/maubg-debug/estudiantes)
 
-Un programa para archivar estudiantes
 
-clone: `$ git clone https://github.com/maubg-debug/estudiantes.git`
 
 
-[license: GNU General Public License v3.0]
 
+[mauro-balades/cclipboard](https://github.com/mauro-balades/cclipboard)
 
+A multi-platform utility module to handle common tasks with the clipboard for C/C++
 
+clone: `$ git clone https://github.com/mauro-balades/cclipboard.git`
 
 
+[license: MIT License]
 
 
 
 
-[maubg-debug/hotel](https://github.com/maubg-debug/hotel)
 
-Mi primer projecto (de verdad) de g++
 
-clone: `$ git clone https://github.com/maubg-debug/hotel.git`
 
+[mauro-balades/cpp-html-parser](https://github.com/mauro-balades/cpp-html-parser)
 
-[license: GNU General Public License v3.0]
+A HTML tree generator library for C(PP)
 
+clone: `$ git clone https://github.com/mauro-balades/cpp-html-parser.git`
 
 
+[license: MIT License]
 
 
 
@@ -462,7 +568,7 @@ clone: `$ git clone https://github.com/maubg-debug/hotel.git`
 
 
 
-## Shell
+## CSS
 
 
 
@@ -473,14 +579,10 @@ clone: `$ git clone https://github.com/maubg-debug/hotel.git`
 
 
 
-[maubg-debug/eve-src](https://github.com/maubg-debug/eve-src)
 
-Herramienta inteligente para pruebas de tareas en programación competitiva
 
-clone: `$ git clone https://github.com/maubg-debug/eve-src.git`
 
 
-\[[homepage](https://maubg-debug.github.io/eve-src/)\] [license: Apache License 2.0]
 
 
 
@@ -494,247 +596,11 @@ clone: `$ git clone https://github.com/maubg-debug/eve-src.git`
 
 
 
+[mauro-balades/dotfiles](https://github.com/mauro-balades/dotfiles)
 
+There is no place like ~/
 
-
-
-
-
-
-
-## Fortran
-
-
-
-
-
-
-
-
-
-
-
-[maubg-debug/fortran](https://github.com/maubg-debug/fortran)
-
-Queria aprender un poco sobre el primer lenguage de programacion  de la historia
-
-clone: `$ git clone https://github.com/maubg-debug/fortran.git`
-
-
-[license: GNU General Public License v3.0]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Assembly
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[maubg-debug/hello-world](https://github.com/maubg-debug/hello-world)
-
-hello-world in any programming language.
-
-clone: `$ git clone https://github.com/maubg-debug/hello-world.git`
-
-
-[license: GNU General Public License v3.0]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Java
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[maubg-debug/java-render](https://github.com/maubg-debug/java-render)
-
-Render 3D objects in java
-
-clone: `$ git clone https://github.com/maubg-debug/java-render.git`
-
-
-[license: GNU General Public License v3.0]
-
-
-
-
-
-
-
-
-
-
-## TypeScript
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[maubg-debug/lwpm](https://github.com/maubg-debug/lwpm)
-
-Light weight package manager
-
-clone: `$ git clone https://github.com/maubg-debug/lwpm.git`
-
-
-\[[homepage](https://maubg-debug.github.io/lwpm/)\] [license: MIT License]
-
-
-
-
-
-
-
-## Markdown
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[maubg-debug/maubg-debug](https://github.com/maubg-debug/maubg-debug)
-
-My github readme.
-
-clone: `$ git clone https://github.com/maubg-debug/maubg-debug.git`
-
-
-\[[homepage](https://maubg-debug.github.io/maubg-debug/)\] [license: GNU General Public License v3.0]
-
-
-
-
-
-## PHP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[maubg-debug/mbox](https://github.com/maubg-debug/mbox)
-
-Un sevicio de emails mas seguro que los demas
-
-clone: `$ git clone https://github.com/maubg-debug/mbox.git`
+clone: `$ git clone https://github.com/mauro-balades/dotfiles.git`
 
 
 
